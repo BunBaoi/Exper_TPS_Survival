@@ -73,3 +73,4 @@ Plugins/*/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 Content/StarterContent/Particles/P_Explosion.uasset
+Content/StarterContent/Textures/T_Concrete_Poured_D.uasset
